@@ -41,14 +41,14 @@ To accomplish this, we have to complete all the activities listed below,
 
 •	Initialize Gemini Pro LLM:
 
-    o	Generate Gemini Pro API
+o	Generate Gemini Pro API
   
-    o	Initialize the pre-trained model
+o	Initialize the pre-trained model
   
 •	Interfacing with Pre-trained Model
 
-    o	Fitnessplan Generation
+o	Fitnessplan Generation
   
 •	Model Deployment
 
-    o	Deploy the application using Streamlit
+o	Deploy the application using Streamlit
