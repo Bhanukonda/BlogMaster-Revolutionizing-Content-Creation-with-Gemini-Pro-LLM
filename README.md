@@ -20,17 +20,29 @@ BlogMaster automates news article and editorial creation, ensuring content is ac
 Project Flow:
 
 • Users enter their desired inputs like fitness goals, workout types etc to stay into the Streamlit UI. Additional preferences or interests can also be specified if needed.
+
 • The input details are sent to the FitnessAI backend, which utilizes the generative AI model to process the information.
+
 • The AI model processes the user’s input to generate a detailed and personalized fitness plan based on the specifications given by the user.
+
 • The AI autonomously creates a well-structured and engaging fitness guide, including tips and diet to followed by the user.
+
 • The generated sheet is sent back to the frontend of the Streamlit app for display to the user.
+
 • Users can review the generated itinerary, make additional customizations if desired, and either export or copy the content for their fitness planning.
 
 To accomplish this, we have to complete all the activities listed below,
+
 •	Initialize Gemini Pro LLM:
+
   o	Generate Gemini Pro API
+  
   o	Initialize the pre-trained model
+  
 •	Interfacing with Pre-trained Model
+
   o	Fitnessplan Generation
+  
 •	Model Deployment
+
   o	Deploy the application using Streamlit
