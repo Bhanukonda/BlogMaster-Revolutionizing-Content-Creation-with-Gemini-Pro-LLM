@@ -4,7 +4,13 @@
 
 https://blogmaster-revolutionizing-content-creation-with-gemini-pro-ll.streamlit.app/
 
+# Video Link
 
+https://drive.google.com/file/d/1ocqBDbjQcTHCEqUjkwrTkA8cHw0lA1lT/view?usp=sharing
+
+# Document Link
+
+https://drive.google.com/file/d/1jhn3wQXCfa5E45eQyvJ_kZxcqIX58QKp/view?usp=sharing
 
 Project Overview:
 BlogMaster leverages Gemini Pro LLM to automate high-quality blog creation, reducing manual effort for content creators, marketers, and businesses. It generates engaging, audience-tailored content while ensuring coherence, context, and style, making content creation more efficient.
