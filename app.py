@@ -59,7 +59,7 @@ def generate_blog(user_input, word_count):
 
 # Streamlit UI
 def main():
-    st.title("📖 BlogMaster: AI-Powered Blog Generation")
+    st.title("📖 BlogMaster: Revolutionizing Content Creation with Gemini Pro LLM")
 
     # Display the second image at the top
     st.image("edited_blog_master.jpg", use_container_width=True)  # ✅ Fixed error here
